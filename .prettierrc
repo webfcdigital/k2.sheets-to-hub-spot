@@ -1,0 +1,9 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "error":
+    {
+      "singleQuote": true,
+      "parser": "flow"
+    }
+}
